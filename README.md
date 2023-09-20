@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SINDHUBUGGANA
-- 👀 I’m interested in computer science fields and specilizations
-- 🌱 I’m currently learning undergraduate in B.Tech(CS)
+- 👀 I’m interested in computer science fields and specializations
+- 🌱 I’m a masters student in CS
 - 💞️ I’m looking to collaborate on fields related to computer science
 - 📫 How to reach me beesindhu@gmail.com
 
