@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SINDHUBUGGANA
-- 👀 I’m interested in computer science fields and specializations
-- 🌱 I’m a masters student in CS
-- 💞️ I’m looking to collaborate on fields related to computer science
-- 📫 How to reach me beesindhu@gmail.com
+ I’m interested in computer science fields and specializations
+
 
 <!---
 SINDHUBUGGANA/SINDHUBUGGANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
