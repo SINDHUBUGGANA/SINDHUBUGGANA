@@ -1,8 +1,8 @@
 ## Hi, I'm Sindhu✨
 
-🧠 Computer Sci student at Stevens Institute of Technology<br/>
-📍 New Jersey<br/>
-🐳 I’m interested in computer science fields and specializations<br/>
+ Computer Sci student at Stevens Institute of Technology<br/>
+ New Jersey<br/>
+ I’m interested in computer science fields and specializations<br/>
 
 
 ## 🌐 Socials:
